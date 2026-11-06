@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brass Weight Scales</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="check">CHECK</string>
+    <string name="hint">HINT</string>
+    <string name="undo">UNDO</string>
+    <string name="free_scale">FREE SCALE</string>
+    <string name="skills">SKILLS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="give_up">GIVE UP</string>
+    <string name="got_it">GOT IT</string>
+    <string name="show_equation">SHOW EQUATION</string>
+    <string name="hide_equation">HIDE EQUATION</string>
+    <string name="clear_pans">CLEAR</string>
+    <string name="close">CLOSE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_confirm">RESET</string>
+
+    <string name="splash_title">BRASS WEIGHT SCALES</string>
+    <string name="splash_tagline">BALANCE THE BEAM, FIND THE WEIGHT</string>
+    <string name="splash_loading">LOADING THE WORKSHOP</string>
+
+    <string name="menu_footer">TAP A SHAPE, WATCH THE BEAM</string>
+    <string name="menu_hint_card">SOLVE YOUR FIRST PUZZLE TO OPEN THE BENCH RECORD</string>
+    <string name="puzzles_solved">PUZZLES SOLVED</string>
+    <string name="solved_value">%1$d / %2$d</string>
+    <string name="best_streak">BEST STREAK</string>
+    <string name="mastery">MASTERY</string>
+    <string name="hints_used">HINTS USED</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="plain_value">%1$d</string>
+    <string name="chapter_puzzle">%1$s · PUZZLE %2$d</string>
+    <string name="game_header">%1$s · %2$d / %3$d</string>
+
+    <string name="clue_caption">CLUE SCALES</string>
+    <string name="tray_caption">SHAPE TRAY</string>
+    <string name="question">HOW MANY %1$s BALANCE THE BEAM?</string>
+    <string name="stat_moves">MOVES</string>
+    <string name="stat_hints">HINTS</string>
+    <string name="stat_tilt">TILT</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="tilt_level">LEVEL</string>
+    <string name="tilt_left">LEFT</string>
+    <string name="tilt_right">RIGHT</string>
+
+    <string name="gameover_balanced">BALANCED</string>
+    <string name="gameover_not_yet">NOT YET</string>
+    <string name="gameover_solved_sub">PUZZLE %1$d SOLVED IN %2$d MOVES</string>
+    <string name="gameover_failed_sub">PUZZLE %1$d LEFT ON THE BENCH</string>
+    <string name="deduction_caption">DEDUCTION</string>
+    <string name="deduction_line">%1$d. %2$d %3$s WEIGH %4$d %5$s</string>
+    <string name="deduction_answer">%1$d. PLACE %2$d %3$s ON THE RIGHT PAN</string>
+    <string name="clue_equation">%1$d %2$s = %3$d %4$s</string>
+    <string name="stars_value">%1$s</string>
+
+    <string name="shape_triangle_one">TRIANGLE</string>
+    <string name="shape_triangle_many">TRIANGLES</string>
+    <string name="shape_square_one">SQUARE</string>
+    <string name="shape_square_many">SQUARES</string>
+    <string name="shape_circle_one">CIRCLE</string>
+    <string name="shape_circle_many">CIRCLES</string>
+    <string name="shape_hexagon_one">HEXAGON</string>
+    <string name="shape_hexagon_many">HEXAGONS</string>
+    <string name="shape_weight_one">BRASS WEIGHT</string>
+    <string name="shape_weight_many">BRASS WEIGHTS</string>
+    <string name="letter_triangle">T</string>
+    <string name="letter_square">S</string>
+    <string name="letter_circle">C</string>
+    <string name="letter_hexagon">H</string>
+    <string name="letter_weight">W</string>
+
+    <string name="hint_title">DEDUCTION STEP</string>
+    <string name="pause_title">WORKSHOP PAUSED</string>
+    <string name="skills_title">SKILL MASTERY</string>
+    <string name="skill_substitution">SUBSTITUTION</string>
+    <string name="skill_doubling">DOUBLING</string>
+    <string name="skill_multi_step">MULTI-STEP</string>
+    <string name="skill_known_weights">KNOWN WEIGHTS</string>
+
+    <string name="chapter_first_balance">FIRST BALANCE</string>
+    <string name="chapter_twin_shapes">TWIN SHAPES</string>
+    <string name="chapter_double_up">DOUBLE UP</string>
+    <string name="chapter_trade_and_swap">TRADE AND SWAP</string>
+    <string name="chapter_brass_weights">BRASS WEIGHTS</string>
+    <string name="chapter_two_steps">TWO STEPS AHEAD</string>
+    <string name="chapter_master_bench">MASTER BENCH</string>
+
+    <string name="settings_sound">SOUND</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_symbols">SHOW ALGEBRA SYMBOLS</string>
+    <string name="settings_grade">GRADE LEVEL</string>
+    <string name="grade_early">EARLY</string>
+    <string name="grade_middle">MIDDLE</string>
+    <string name="grade_advanced">ADVANCED</string>
+    <string name="teacher_caption">TEACHER NOTES</string>
+    <string name="teacher_note_one">Every clue scale is a balanced equation. Two triangles resting against one square is the sentence 2t = s written in brass instead of ink.</string>
+    <string name="teacher_note_two">Solving the test scale is substitution. Learners trade a heavy shape for the lighter shapes it balances until only the asked-for shape is left.</string>
+    <string name="teacher_note_three">Switch on algebra symbols once the beam feels familiar. The notation then describes something the learner already knows how to do.</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_message">This clears every solved puzzle, your streak and your skill record. The bench starts empty again.</string>
+
+    <string name="free_scale_caption">EXPERIMENT FREELY</string>
+    <string name="free_scale_hint">BOTH PANS ARE YOURS. TAP A PAN TO TAKE ONE SHAPE OFF.</string>
+
+    <string name="cd_logo">Brass scale emblem</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_home">Workshop bench</string>
+    <string name="cd_scale">Balance scale</string>
+    <string name="cd_left_pan">Left pan</string>
+    <string name="cd_right_pan">Right pan, tap to remove the last shape</string>
+    <string name="cd_tray_shape">Add one shape to the pan</string>
+    <string name="state_selected">Selected</string>
+    <string name="state_not_selected">Not selected</string>
+</resources>
